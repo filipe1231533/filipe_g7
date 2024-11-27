@@ -1,3 +1,5 @@
 Git stash explicado: armazena temporariamente alterações locais no Git. O Git tem uma área chamada stash, onde se pode armazenar temporariamente as suas alterações sem fazer o commit delas para o repositório.
 
 Temos que fazer: git restore --staged nome1 # ou, para vários arquivos git restore --staged nome1 nome2 nome3 # ou, para todos os arquivos que estiverem no staging area git restore --staged .
+
+Git Clean. Remove os arquivos não monitorados do diretório de trabalho.

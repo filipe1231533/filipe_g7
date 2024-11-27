@@ -1,0 +1,8 @@
+Algoritmo numero feliz
+
+ED: num, num1, num2
+
+Escrever ("Insira um numero:"?
+Ler (num)
+num /10
+ler

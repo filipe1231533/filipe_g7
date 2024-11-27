@@ -1,0 +1,1 @@
+Git stash explicado: armazena temporariamente alterações locais no Git. O Git tem uma área chamada stash, onde se pode armazenar temporariamente as suas alterações sem fazer o commit delas para o repositório.
